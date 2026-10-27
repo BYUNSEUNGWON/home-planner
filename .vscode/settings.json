@@ -1,0 +1,7 @@
+{
+    //__pycache__ 안보이게 설정
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
